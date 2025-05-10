@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <p align="center"><a href="https://akkupy.me"><img src="https://www.mdpi.com/sensors/sensors-21-05874/article_deploy/html/images/sensors-21-05874-g004-550.jpg" width="5000"></a></p> 
 
 <h1 align="center"><b>BlockChain Based E-Voting System</b></h1>
@@ -134,3 +135,6 @@ published by the Free Software Foundation, either version 3 of the License, or
 
 #### --This is only a demonstration of the blockchain based voting system and it is entirely a prototype of the technology--
 
+=======
+# Smart-Voting-System
+>>>>>>> 94f168bacfaa0d797c5f1f17e5298d9ef4292731
