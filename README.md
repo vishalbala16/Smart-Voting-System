@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 <p align="center"><a href="https://akkupy.me"><img src="https://www.mdpi.com/sensors/sensors-21-05874/article_deploy/html/images/sensors-21-05874-g004-550.jpg" width="5000"></a></p> 
 
-<h1 align="center"><b>BlockChain Based E-Voting System</b></h1>
+<h1 align="center"><b>BlockChain Based Smart Voting System</b></h1>
 
 * This project aims at implementing a voting system based on Blockchain technology. 
 * It is a secure, transparent and decentralized way of voting.
@@ -16,7 +16,7 @@
 4. DB SQLite 3
 5. HTML5
 
-# Z-vote Production Server On Docker ([click image](https://github.com/akkupy/Z-Vote/tree/production))
+# Smart Voting System Production Server On Docker ([click image](https://github.com/akkupy/Z-Vote/tree/production))
 
 <p align="center"><a href="https://github.com/akkupy/Z-Vote/tree/production"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/69421964/238869562-becd50b0-006d-4ae8-a47b-b19cdb4c98e4.png" width="400"></a></p> 
 
@@ -134,7 +134,3 @@ published by the Free Software Foundation, either version 3 of the License, or
 
 
 #### --This is only a demonstration of the blockchain based voting system and it is entirely a prototype of the technology--
-
-=======
-# Smart-Voting-System
->>>>>>> 94f168bacfaa0d797c5f1f17e5298d9ef4292731
