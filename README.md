@@ -16,12 +16,6 @@
 4. DB SQLite 3
 5. HTML5
 
-# Smart Voting System Production Server On Docker ([click image](https://github.com/akkupy/Z-Vote/tree/production))
-
-<p align="center"><a href="https://github.com/akkupy/Z-Vote/tree/production"><img src="https://github-production-user-asset-6210df.s3.amazonaws.com/69421964/238869562-becd50b0-006d-4ae8-a47b-b19cdb4c98e4.png" width="400"></a></p> 
-
-
-
 # Self-hosting(Development Server)
 
 ## Simply clone the repository and run the server:
